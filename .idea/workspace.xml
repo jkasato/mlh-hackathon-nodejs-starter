@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1451dbd7-ba21-44d7-9a03-b7489934000a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mlh-hackathon-nodejs-starter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1451dbd7-ba21-44d7-9a03-b7489934000a" name="Default Changelist" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,39 +102,69 @@
       <option name="presentableId" value="Default" />
       <updated>1599932710914</updated>
       <workItem from="1599932712135" duration="729000" />
+      <workItem from="1599933457634" duration="1530000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1599933509003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599933509003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599932774462">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599932774462" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1599933446084">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1599933493529">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599933446084" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1599933446083">
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1599933493529" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1599934756843">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599933446083" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1599933446083">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599934756843" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1599934756843">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599933446083" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1599933446083">
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599934756843" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1599934756843">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599933446083" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599934756843" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1599934756843">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599934756843" />
     <state x="142" y="5" key="SettingsEditor" timestamp="1599933406597">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599933406597" />
+    <state x="347" y="48" width="587" height="624" key="find.popup" timestamp="1599934965929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="347" y="48" width="587" height="624" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1599934965929" />
   </component>
 </project>
